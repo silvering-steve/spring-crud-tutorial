@@ -1,4 +1,4 @@
-package model;
+package com.silvering.tutorialscrud.model;
 
 import jakarta.persistence.*;
 

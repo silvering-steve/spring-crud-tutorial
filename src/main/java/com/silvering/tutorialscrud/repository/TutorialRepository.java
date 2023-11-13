@@ -1,6 +1,6 @@
-package repository;
+package com.silvering.tutorialscrud.repository;
 
-import model.Tutorial;
+import com.silvering.tutorialscrud.model.Tutorial;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
